@@ -8,12 +8,12 @@ However, there are 3different datasets containing information about the business
 This analysis is done to find insights regarding the top 5 most popular categories of content and to create other useful insights for the company.
 
 CONCLUSION FROM THE INSIGHTS 
-The company should focus more on animals and science post because they have higher percentage distribution,this means that people enjoy real life and factual content the most.
 
+1.The company should focus more on animals and science post because they have higher percentage distribution,this means that people enjoy real life and factual content the most.
 Also,among the top 5 popular category , food is common with healthy eating ranking the highest.This may give an indication that the audience watching the content are interested in healthy eating and food contents.Technology may also suggest that people enjoy snippets of content that they can learn from.Social buzz can use this insight to create a campaign and work with healthy eating brands to boost user engagement.
 
-Social buzz should focus more on photo and videos because they have high percentage compared to other content types.
+2.Social buzz should focus more on photo and videos because they have high percentage compared to other content types.
 
-Social buzz should also look out for a way to see what is the cause of negative and neutral sentiment reactions of their contents and find a way to maximize the positive reactions.
+3.Social buzz should also look out for a way to see what is the cause of negative and neutral sentiment reactions of their contents and find a way to maximize the positive reactions.
 
-Social buzz should ensure that they put all things in place so as to increase the contentview by users in the next coming year.
+4.Social buzz should ensure that they put all things in place so as to increase the contentview by users in the next coming year.
