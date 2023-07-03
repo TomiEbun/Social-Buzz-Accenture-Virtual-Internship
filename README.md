@@ -17,3 +17,6 @@ Also,among the top 5 popular category , food is common with healthy eating ranki
 3.Social buzz should also look out for a way to see what is the cause of negative and neutral sentiment reactions of their contents and find a way to maximize the positive reactions.
 
 4.Social buzz should ensure that they put all things in place so as to increase the contentview by users in the next coming year.
+
+
+You can check my portfolio for my interactive Dashboard- https://www.novypro.com/project/social-buzz-content-dashboard-accenture-virtual-internship
